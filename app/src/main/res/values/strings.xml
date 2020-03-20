@@ -1,0 +1,34 @@
+<resources>
+  <string name="app_name">Menu and Dialog</string>
+  <string name="_1">1</string>
+  <string name="_2">2</string>
+  <string name="_3">3</string>
+  <string name="_4">4</string>
+  <string name="open">open</string>
+  <string name="dialog_1">Dialog 1</string>
+  <string name="dialog_2">Dialog 2</string>
+  <string name="message_text">Text of your message</string>
+  <string name="yes">Yes</string>
+  <string name="no">No</string>
+  <string name="maybe">Maybe</string>
+  <string name="dialog2_text">dialog 2 onclick</string>
+  <string name="pressPositiveDialog1">Click Positive Button Dialog 1</string>
+  <string name="pressNegativeDialog1">press Negative Button Dialog 1</string>
+  <string name="line_1">Пункт 1</string>
+  <string name="line_2">Пункт 2</string>
+  <string name="line_3">Пункт 3</string>
+  <string name="pressPositive">Dialog onDialogPositiveClick</string>
+  <string name="pressNegetive">Dialog onDialogNegativeClick</string>
+  <string name="pressNeutral">Dialog onDialogNeutralClick</string>
+  <string name="get_color">Color</string>
+  <string name="dialog_6">Dialog 6</string>
+  <array name="color">
+    <item>RED</item>
+    <item>GREEN</item>
+    <item>BLUE</item>
+    <item>BLACK</item>
+    <item>YELLOW</item>
+    <item>WHITE</item>
+    <item>PINK</item>
+  </array>
+</resources>
